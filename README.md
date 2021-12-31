@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shiva-reddy1997
-- 👀 I’m interested in ...AI,ML and Full Stack
-- 🌱 I’m currently learning ...Python
+- 💻 I am Python Developer
+- 👀 I’m interested in ...Web Development,AI,ML and Data Science
+- 🌱 I’m currently learning ...Full Stack
 - 💞️ I’m looking to collaborate on ...Python based projects
 - 📫 How to reach me ...drop a mail at nspr12345@gmail.com
 
