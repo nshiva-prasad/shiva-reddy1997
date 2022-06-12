@@ -5,7 +5,7 @@
 <h3 align="left">🌱 I’m currently learning ...Full Stack</h3>
 <h3 align="left">💞️ I’m looking to collaborate on ...Python based projects</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 - 💬 Ask me about **Python**
 <br>
