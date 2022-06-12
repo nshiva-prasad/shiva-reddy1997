@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiva Prasad</h1>
-<h3 align="left">💻 I am Python Developer and Full Stack Developer</h3>
+<h3 align="left">💻 I am Python and Full Stack Developer</h3>
 <h3 align="left">👀 I’m interested in ...Web Development,AI,ML and Data Science</h3>
 <h3 align="left">🌱 I’m currently learning ...Full Stack</h3>
 <h3 align="left">💞️ I’m looking to collaborate on ...Python based projects</h3>
