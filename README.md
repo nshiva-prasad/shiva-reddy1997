@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif)
+[![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)]
 <h1 align="center">Hi 👋, I'm Shiva Prasad</h1>
 <h3 align="left">💻 I am Python Developer and Full Stack Developer</h3>
 <h3 align="left">👀 I’m interested in ...Web Development,AI,ML and Data Science</h3>
